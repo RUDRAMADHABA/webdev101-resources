@@ -1,0 +1,45 @@
+Assignment 1 for Day1-HTML Basics											Dt-29 Nov 21
+----------------------------------------------------------------------------------------
+
+You are supposed to create a Project Folder name "My Site"
+
+Inside the Project Folder 4 files must be present:
+1. index.html
+2. contact-me.html
+3. profile-pic.png (this must be your profile picture. Any image format is allowed)
+4. favicon.png (use any icon image you like)
+
+----------------------------------------------------------------------------------------
+
+Task1: create index.html
+- refer the example image "1.index.html.jpeg". It shows a HTML page. You are supposed 
+to create an exact replica of that. Content inside that page must be your own.
+	- use profile-pic.png in place of Ravi Shastri's image. Make the image circular by
+	adding an inline style : style="border-radius:50%" on the <img> tag
+	- DO NOT COPY THE CONTENT given in that example image.
+	- Hint are also given to make your task easy.
+	
+- Learn <table> tag by yourself. You can refer MDN docs(recommended) or you can refer 
+any resource of your choice.
+
+- make use of semantic tags wherever relevant.
+
+- add you own favicon. Put whatever icon you like.
+
+----------------------------------------------------------------------------------------
+Task2: create contact-me.html
+- refer the example image "2.contact-me.html.jpeg". It shows a HTML page. You are 
+supposed to create an exact replica of that. Content inside that page must be your own. 
+DO NOT PUT YOUR PERSONAL PH. No. or EMAIL. use dummy details instead!
+	- DO NOT COPY THE CONTENT given in that example image.
+	- Hint are also given to make your task easy.
+	
+- Learn <form> tag by yourself. You can refer MDN docs(recommended) or you can refer 
+any resource of your choice. 
+	- Create the form using <form> tag. 
+	- use "action" attribute of the <form> tag action="mailto:saninsmlsa19@gmail.com". 
+	- Use "submit" type <input> button.
+
+- make use of semantic tags wherever relevant.
+
+- add you own favicon. Put whatever icon you like.

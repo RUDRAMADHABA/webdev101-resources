@@ -12,14 +12,14 @@ This repository contains all the source code that is used in our Webdev101 Tutor
 
 > Suppose you want to download the tutorial resources for Day1 HTML Basics. Follow the steps given below.
 
-####Step 1: Find the tutorial resources you are looking for:
+#### Step 1: Find the tutorial resources you are looking for:
 
 ![Find the tutorial resources you are looking for](./.ignore/step1.jpg)
 
   1. click on the branch button (Red-marked as 1)
   2. click on the tutorial resource you are looking for. In our example case we are looking for Day 1 HTML Basics resources, so click on D1-HTML-Basics branch (Red-marked as 2)
 
-####Step 2: Download the tutorial resources!
+#### Step 2: Download the tutorial resources!
 
 ![Download tutorial resources!](./.ignore/step2.jpg)
   1. Click on **Code** button. (Red-marked as 1)
